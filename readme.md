@@ -52,26 +52,14 @@
 
 ![](images/welcome.png)
 
----
-
-# Generous Permissions
-
-
-![org permissions](https://user-images.githubusercontent.com/2289/35946225-d296c578-0c17-11e8-8c57-5e1ce0aa7cb9.png)
 
 ---
 
-![](images/branch-protection.png)
-
----
-
-# Heroku Review Apps
+# Automatic Staging Deployments
 
 ![](images/heroku-review-apps.png)
 
 ---
-
-# Demonstrable Pull Requests
 
 
 ![](images/heroku-review-apps-url.png)
@@ -98,7 +86,7 @@
 ---
 
 
-**Semantic Release** is a tool for automated releases: let humans write meaningful commit messages and leave versioning up to the machines.
+**Semantic Release** is a tool for automating software releases: let humans write meaningful commit messages and leave versioning up to the machines.
 
 ---
 
@@ -119,9 +107,6 @@ Semantic Release removes the connection between human emotions and version numbe
 
 ![](images/semantic-pull-requests-2.png)
 
----
-
-# Bots!
 
 ---
 
@@ -145,17 +130,11 @@ Semantic Release removes the connection between human emotions and version numbe
 
 --- 
 
+![](images/probot-linter.png)
+
+--- 
+
 ![](images/ci-reporter.png)
-
----
-
-# URLs
-
-- github.com/your/repo/community
-- github.com/apps
-- probot.github.io
-- github.com/octokit
-- github.com/zeke/github-constellation-la-talk
 
 ---
 
@@ -164,7 +143,3 @@ Semantic Release removes the connection between human emotions and version numbe
 ---
 
 fin.
-
-
-
-probot linter
